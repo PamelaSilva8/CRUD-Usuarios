@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "nome": "Leticia Manuele",
+      "dataNascimento": "2012-09-20",
+      "email": "leticiamanuele@gmail.com",
+      "cpf": "000.000.000-22",
+      "fone": "(88) 99701-00",
+      "endereco": {
+        "rua": "ss",
+        "cep": "0000000",
+        "bairro": "sao luis",
+        "numero": "00",
+        "cidade": "carnaubal",
+        "estado": "ceara"
+      },
+      "id": "5194"
+    },
+    {
+      "nome": "Ana Liz",
+      "dataNascimento": "2022-06-07",
+      "email": "analiz@gmail.com",
+      "cpf": "000.000.000-00",
+      "fone": "(99) 99999-9999",
+      "endereco": {
+        "rua": "ss",
+        "cep": "0000000",
+        "bairro": "sao luis",
+        "numero": "00",
+        "cidade": "carnaubal",
+        "estado": "ceara"
+      },
+      "id": "fdad"
+    },
+    {
+      "nome": "Pamela",
+      "dataNascimento": "2001-11-10",
+      "email": "pamela@gmail.com",
+      "cpf": "000.000.000-42",
+      "fone": "(11) 11111-1111",
+      "endereco": {
+        "rua": "ss",
+        "cep": "0000000",
+        "bairro": "ss",
+        "numero": "00",
+        "cidade": "carnaubal",
+        "estado": "ceara"
+      },
+      "id": "45a2"
+    },
+    {
+      "id": "91fe",
+      "nome": "Maria Jocelma",
+      "dataNascimento": "1985-03-05",
+      "email": "mariajocelma@gmail.com",
+      "cpf": "000.000.000-66",
+      "fone": "(22) 22222-2222",
+      "endereco": {
+        "rua": "ss",
+        "cep": "0000000",
+        "bairro": "centro",
+        "numero": "00",
+        "cidade": "carnaubal",
+        "estado": "ceara"
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "body": "TESTE"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
